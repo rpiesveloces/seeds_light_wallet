@@ -16,6 +16,8 @@ static final _t = Translations.byLocale('en_us') +
         'Import private key': 'Importar llave privada',
         'If you have an invite\nclick here': 'Si tienes invitación\ntoca aquí',
         'Claim invite code': 'Reclama código de invitación',
+        'If you forget your private key\nclick here':'Si perdiste tu llave privada\ntoca aquí',
+        'Recover account':'Recupera tu cuenta',
       }
     };
 
